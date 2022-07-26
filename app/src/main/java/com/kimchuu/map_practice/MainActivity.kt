@@ -35,5 +35,7 @@ class MainActivity : AppCompatActivity(), OnMapReadyCallback {
         var marker = Marker(LatLng(37.4963462,126.9568865))
         marker.map = naverMap
         naverMap.locationTrackingMode = LocationTrackingMode.Follow
+
+
     }
 }
