@@ -23,8 +23,8 @@
         </activity>
 
         <meta-data
-            android:name="agadh4lfnd"
-            android:value="gIDz0mEC04sEwk4ZNxGIkxNceD07kylPYeNNcLch" />
+            android:name="com.naver.maps.map.CLIENT_ID"
+            android:value="agadh4lfnd" />
     </application>
 
 </manifest>
